@@ -1,4 +1,4 @@
-# program for creating the python program using the tkinter a advanaced cal
+# program for creating the number system convertor
 
 from tkinter import *
 from tkinter import messagebox
